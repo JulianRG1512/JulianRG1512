@@ -1,16 +1,38 @@
 ### Hi there 👋
+<img src="./assets/greetings.gif">
 
-<!--
-**JulianRG1512/JulianRG1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+**Hi, I'm Estefania. I'm a software developer and computer science instructor. I love teaching, learning, and helping others realize how amazing and powerful programming can be.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I create online courses in English and Spanish to teach programming and computer science.
+
+I'm part of the freeCodeCamp Staff, where I run the [**freeCodeCamp Español**](https://www.youtube.com/freecodecampespanol) YouTube Channel, create courses, and write articles.
+
+
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/html.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/css.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/javascript.svg"> &nbsp; &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/python.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/react.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/node.svg">
+
+-----
