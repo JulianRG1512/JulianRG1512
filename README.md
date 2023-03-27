@@ -1,38 +1,38 @@
 ### Hi there 👋
-<img src="./assets/greetings.gif">
+<img src="./img/GifConsole.gif">
 
 <br>
 
-**Hi, I'm Estefania. I'm a software developer and computer science instructor. I love teaching, learning, and helping others realize how amazing and powerful programming can be.**
+**Hola, Mi nombre es Julian Rodriguez Gomez. Soy Ingeniero de Sistemas y apasionado por el desarrollo de software**
 
 I create online courses in English and Spanish to teach programming and computer science.
 
-I'm part of the freeCodeCamp Staff, where I run the [**freeCodeCamp Español**](https://www.youtube.com/freecodecampespanol) YouTube Channel, create courses, and write articles.
 
 
+
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/html.svg"> &nbsp;
+    src="./img/html.svg"> &nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/css.svg"> &nbsp;
+    src="./img/css.svg"> &nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/javascript.svg"> &nbsp; &nbsp;
-<img width="70px" 
+    src="./img/javascript.svg"> &nbsp; &nbsp;
+<!--<img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/python.svg"> &nbsp;
+    src="./assets/python.svg"> &nbsp;-->
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
     src="./assets/react.svg"> &nbsp;
-<img width="70px" 
+<!--<img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/node.svg">
+    src="./assets/node.svg">-->
 
 -----
