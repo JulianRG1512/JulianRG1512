@@ -1,9 +1,11 @@
-### Hola, Bienvenidos 👋
+
 <img src="./img/GifConsole.gif">
 
 <br>
 
-**Hola, Mi nombre es Julian Rodriguez Gomez. Soy Ingeniero de Sistemas y apasionado por el desarrollo de software**
+Hola, Mi nombre es Julian Rodriguez Gomez, soy Ingeniero de Sistemas y apasionado por el Desarrollo de Software, exparticipante de MISION TIC 2022 y actual participante de ONE (Oracle Next Education) Oracle + Alura Latam.
+
+---------
 
 <img width="70px" 
     height="70px" 
@@ -27,3 +29,11 @@
     src="./img/git.png">
 
 -----
+
+## 🌐 Puedes encontrarme en:
+
+- Email: **julianrg11@hotmail.com**
+- Linkedin: **www.linkedin.com/in/julián-rodríguez-gómez**
+
+ 
+--------
