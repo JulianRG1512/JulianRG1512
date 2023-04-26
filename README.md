@@ -34,6 +34,7 @@ Hola, Mi nombre es Julian Rodriguez Gomez, soy Ingeniero de Sistemas y apasionad
 
 - Email: **julianrg11@hotmail.com**
 - Linkedin: **www.linkedin.com/in/julián-rodríguez-gómez**
+- Portafolio: **https://julianrgportafolio.netlify.app/#inicio**
 
  
 --------
