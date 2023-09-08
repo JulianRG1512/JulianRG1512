@@ -31,10 +31,14 @@ Hola, Mi nombre es Julian Rodriguez Gomez, soy Ingeniero de Sistemas y apasionad
     height="70px" 
     style="margin: 10px"
     src="./img/nodejs.png"> &nbsp;
-    <img width="70px" 
+<img width="70px" 
     height="70px" 
     style="margin: 10px"
     src="./img/mongodb.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./img/mysql.svg"> &nbsp;
 
 -----
 
