@@ -3,7 +3,7 @@
 
 <br>
 
-Hola, Mi nombre es Julian Rodriguez Gomez, soy Ingeniero de Sistemas y apasionado por el Desarrollo de Software, exparticipante de ***MISION TIC 2022 - Universidad Indistrial de Santander*** y actual participante de ***ONE (Oracle Next Education) Oracle + Alura Latam***.
+Hola, Mi nombre es Julian Rodriguez Gomez, soy Ingeniero de Sistemas y apasionado por el Desarrollo de Software, exparticipante de ***MISION TIC 2022 - Universidad Indistrial de Santander*** y exparticipante de ***ONE (Oracle Next Education) Oracle + Alura Latam***.
 
 ---------
 
