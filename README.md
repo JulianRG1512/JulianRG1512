@@ -27,6 +27,10 @@ Hola, Mi nombre es Julian Rodriguez Gomez, soy Ingeniero de Sistemas y apasionad
     height="70px" 
     style="margin: 10px"
     src="./img/git.png">
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./img/nodejs.png">
 
 -----
 
