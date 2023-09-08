@@ -3,7 +3,7 @@
 
 <br>
 
-Ingeniero de Sistemas, con experiencia académica en desarrollo de software de más de un año como exparticipante del programaMisión Tic 2022 y ONE de Oracle y AluraLatam, los cuales me permitieron aprender y poner en práctica lenguajes de programación y tecnologías como JavaScript, Html, Css,React.js, Node.js, Git, Postman, Java, MySQL,MongoDB, Jira, software testing y metodología ágil Scrum, mediante el desarrollo de proyectos. Softskills, como pensamiento analítico, diplomacia en la comunicación, integridad, objetividad, trabajo en equipo, aprendizaje continuo y responsabilidad.
+Ingeniero de Sistemas, con experiencia académica en desarrollo de software de más de un año como exparticipante del programa Misión Tic 2022 y ONE de Oracle y AluraLatam, los cuales me permitieron aprender y poner en práctica lenguajes de programación y tecnologías como JavaScript, Html, Css,React.js, Node.js, Git, Postman, Java, MySQL,MongoDB, Jira, software testing y metodología ágil Scrum, mediante el desarrollo de proyectos. Softskills, como pensamiento analítico, diplomacia en la comunicación, integridad, objetividad, trabajo en equipo, aprendizaje continuo y responsabilidad.
 
 ---------
 
