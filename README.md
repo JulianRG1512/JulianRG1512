@@ -39,6 +39,10 @@ Ingeniero de Sistemas, con experiencia académica en desarrollo de software de m
     height="70px" 
     style="margin: 10px"
     src="./img/mysql.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./img/mysql.svg"> &nbsp;
 
 -----
 
