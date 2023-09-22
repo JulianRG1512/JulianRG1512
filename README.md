@@ -42,7 +42,7 @@ Ingeniero de Sistemas, con experiencia académica en desarrollo de software de m
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./img/mysql.svg"> &nbsp;
+    src="./img/java.svg"> &nbsp;
 
 -----
 
